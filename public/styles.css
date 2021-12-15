@@ -1,0 +1,16 @@
+html{
+    font-size: 100%;
+}
+
+button{
+    padding: 1em;
+    border: none;
+    background-color: orange;
+    margin-right: 1em;
+}
+
+input{
+    margin: 1em 1em 1em 0;
+    padding: 0.75em 1em;
+    outline: none;
+}
