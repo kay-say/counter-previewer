@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/counter-previewer/static/js/main.f792266f.js",
+    "index.html": "/counter-previewer/index.html",
+    "main.f792266f.js.map": "/counter-previewer/static/js/main.f792266f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f792266f.js"
+  ]
+}
